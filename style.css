@@ -1,0 +1,15 @@
+.fotoperfil{
+    background-image: url("assets/eu.jpg");
+}
+
+.contato{
+    color: rgb(54, 48, 48);
+}
+
+.GitHub {
+    background-color: grey;
+    width: 70px;
+    height: 25px;
+    border-radius: 15px;
+    margin: 10px;
+}
